@@ -1,6 +1,6 @@
 # Phone number input
 
-This repository is craeted to solved Telephone number input by using React + Vite
+This repository is craeted to solved Phone number input by using React + Vite
 
 To run this project:
 
