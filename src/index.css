@@ -1,0 +1,15 @@
+* {
+  font-family: "Sarabun', sans-serif";
+  font-weight: 300;
+  font-style: normal;
+}
+
+.box-shadow {
+  box-shadow: 1px 1px 39px -4px rgba(214, 214, 214, 1);
+  -webkit-box-shadow: 1px 1px 39px -4px rgba(214, 214, 214, 1);
+  -moz-box-shadow: 1px 1px 39px -4px rgba(214, 214, 214, 1);
+}
+
+li {
+  list-style-type: none;
+}
